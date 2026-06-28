@@ -211,11 +211,11 @@ The repository includes:
 
 ## 👨‍💻 Author
 
-Pham Tan Minh 
-Doan Duy Long
-Nguyen Tran Hai Phong
+- Pham Tan Minh 
+- Doan Duy Long
+- Nguyen Tran Hai Phong
 
 Computer Vision • AI Engineering • Backend AI Systems
 
-Linkedln: Minh Pham Tan 
-Email: phamtanminh2004@gmail.com
+- Linkedln: Minh Pham Tan 
+- Email: phamtanminh2004@gmail.com
