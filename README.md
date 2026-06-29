@@ -177,7 +177,7 @@ The repository includes:
 
 - Qualitative Predictions
 <p align="center">
-  <img src="qualitative_predictions_grid" src="https://github.com/user-attachments/assets/13638ae6-dac9-4dac-be5c-58f09f9209fc"/>
+  <img src="https://github.com/user-attachments/assets/13638ae6-dac9-4dac-be5c-58f09f9209fc" width="900"/>
 </p>
 
 - Failure Case Visualization
