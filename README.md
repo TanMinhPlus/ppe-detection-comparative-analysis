@@ -204,6 +204,14 @@ The repository includes:
        width="700"/>
 </p>
 
+# Key Findings
+
+After benchmarking all three models under identical training settings:
+- YOLO26 achieved the highest overall detection accuracy.
+- RT-DETR produced better recall for partially occluded PPE.
+- YOLOv8 provided the best trade-off between speed and accuracy.
+- Dataset quality affected performance more significantly than model selection.
+
 ## Future Improvements
 
 - D-FINE comparison
