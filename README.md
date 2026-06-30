@@ -177,11 +177,7 @@ The repository includes:
 
 - Qualitative Predictions
 <p align="center">
-  <img src="results/qualitative_predictions_grid.jpg" width="900"/>
-</p>
-
-<p align="center">
-  <b>Figure.</b> Qualitative comparison of YOLOv8, YOLOv26, and RT-DETR on representative PPE test images.
+  <img src="https://github.com/user-attachments/assets/13638ae6-dac9-4dac-be5c-58f09f9209fc" width="900"/>
 </p>
 
 - Failure Case Visualization
