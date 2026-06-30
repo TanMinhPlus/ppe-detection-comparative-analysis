@@ -75,7 +75,7 @@ Evaluation --> Deployment
 ```
 
 ## Experimental Setup
-GPU: RTX 3060 Laptop
+GPU: RTX 3080 10G Desktop
 
 Epochs: 50
 
