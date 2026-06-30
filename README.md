@@ -74,6 +74,19 @@ Evaluation --> ErrorAnalysis
 Evaluation --> Deployment
 ```
 
+## Experimental Setup
+GPU: RTX 3060 Laptop
+
+Epochs: 50
+
+Image Size: 640
+
+Batch: 8
+
+Optimizer: AdamW
+
+Framework: Ultralytics
+
 
 ## Repository Structure
 
